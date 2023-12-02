@@ -2,6 +2,7 @@
 <h1>Front-End developer 🖥</h1>
 <p>Solution-oriented information manager, with a growth mindset that's always eager to learn all about the <b>tech world</b>, my love for what I do is what fuels me 🦾.</p>
 
+![image0](https://github.com/darinetag/darinetag/assets/137963187/32e2714d-3d22-4f34-921c-4966ec614180)
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
