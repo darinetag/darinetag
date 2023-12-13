@@ -1,6 +1,9 @@
 ## Hey 🛸, I'm Darine!
 <h1>Front-End developer 🖥</h1>
 <p>Solution-oriented information manager, with a growth mindset that's always eager to learn all about the <b>tech world</b>, my love for what I do is what fuels me 🦾.</p>
+<strong>Reach me on: <br>
+<a href="mailto:tagdarinefatma@gmail.com">tagdarinefatma@gmail.com</a><br>
+</strong><br>
 
 ![image0](https://github.com/darinetag/darinetag/assets/137963187/32e2714d-3d22-4f34-921c-4966ec614180)
 
