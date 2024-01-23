@@ -1,5 +1,5 @@
-## Hey 🛸, I'm Darine!
-<h1>Front-End developer 🖥</h1>
+## <h1 align="center" dir="auto">Hey 🛸, I'm Darine!</h1>
+<h3 align="center" dir="auto">Front-End developer 🖥</h3>
 <p>Solution-oriented information manager, with a growth mindset that's always eager to learn all about the <b>tech world</b>, my love for what I do is what fuels me 🦾.</p>
 <strong>Reach me on: <br>
 <a href="mailto:tagdarinefatma@gmail.com">tagdarinefatma@gmail.com</a><br>
