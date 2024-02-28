@@ -16,5 +16,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-<img align="center" src="https://camo.githubusercontent.com/e6335b813ad1cd8728feaaf095a85c2586edd9c7ec7c77cffca7c86cb29c9a10/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d62656e2d74657766696b26" alt="darinetag" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=darinetag&amp;" style="max-width: 100%;">
+
+## My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=darinetag&theme=shadow-green)](https://git.io/streak-stats)
