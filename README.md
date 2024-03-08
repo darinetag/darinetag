@@ -1,9 +1,10 @@
 ## <h1 align="center" dir="auto">Hey 🛸, I'm Darine!</h1>
 <h3 align="center" dir="auto">Front-End developer 🖥</h3>
-<p>Solution-oriented information manager, with a growth mindset that's always eager to learn all about the <b>tech world</b>, my love for what I do is what fuels me 🦾.</p>
-<strong>Reach me on: <br>
+<p align="center" dir="auto">Solution-oriented information manager, whatever it is I can somehow <b>solve</b> it. 
+  My love for what I do is what fuels me 🦾. </p>
+<b>Reach me on: <br>
 <a href="mailto:tagdarinefatma@gmail.com">tagdarinefatma@gmail.com</a><br>
-</strong><br>
+</b><br>
 
 ![image0](https://github.com/darinetag/darinetag/assets/137963187/32e2714d-3d22-4f34-921c-4966ec614180)
 
