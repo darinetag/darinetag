@@ -1,6 +1,6 @@
 ## <h1 align="center" dir="auto">Hey 🛸, I'm Darine!</h1>
 <h3 align="center" dir="auto">Front-End developer 🖥</h3>
-<p align="center" dir="auto">Solution-oriented information manager, whatever it is I can somehow <b>solve</b> it because I love what I do. </p>
+<p align="center" dir="auto">Solution-oriented information manager, whatever it is I can somehow <b>solve</b> it because I enjoy what I do. </p>
 <b>Reach me on: <br>
 <a href="mailto:tagdarinefatma@gmail.com">tagdarinefatma@gmail.com</a><br>
 </b><br>
