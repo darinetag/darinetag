@@ -33,6 +33,3 @@
 
 
 
-## My Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=darinetag&theme=shadow-green)](https://git.io/streak-stats)
